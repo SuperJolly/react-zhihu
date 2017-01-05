@@ -1,7 +1,7 @@
 {
   "name": "react-zhihu",
   "version": "1.0.0",
-  "description": "",
+  "description": "博客地址：http://blog.xieliqun.com/2016/11/04/react-zhihu/",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,5 +21,13 @@
     "gulp-react": "^3.1.0",
     "lodash": "^4.16.6",
     "reactify": "^1.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperJolly/react-zhihu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SuperJolly/react-zhihu/issues"
+  },
+  "homepage": "https://github.com/SuperJolly/react-zhihu#readme"
 }
